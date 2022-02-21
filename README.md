@@ -14,7 +14,9 @@ The DuckID can be used as a voting tool, requiring each participant to process a
 
 Alice's Idetification:
 https://pool.pm/b98829dd255068cb3d742aebb6eb333fbbb8111763d4c8a750f2b708.416c6963654475636b4964
+
 Bob's Identification:
 https://pool.pm/b98829dd255068cb3d742aebb6eb333fbbb8111763d4c8a750f2b708.426f624475636b4964
+
 Generic Template:
 https://pool.pm/b98829dd255068cb3d742aebb6eb333fbbb8111763d4c8a750f2b708.4475636b4964

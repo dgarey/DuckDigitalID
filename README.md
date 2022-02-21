@@ -14,7 +14,7 @@ The DuckID can be used to assign roles in a DAO/Server.
 
 The DuckID can be used to establish trusted users in a public space by requiring members to have a policy key minted with their unique identifier. 
 
-The DuckID can be used as a voting tool, requiring each participant to process a valid personalized ID with the policy number tied to a corresponding election.
+The DuckID can be used as a voting tool, requiring each participant to possess a valid personalized ID with the policy number tied to a corresponding election.
 
 Alice's Idetification:
 https://pool.pm/b98829dd255068cb3d742aebb6eb333fbbb8111763d4c8a750f2b708.416c6963654475636b4964

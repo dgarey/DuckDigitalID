@@ -7,6 +7,7 @@ I propose creating one policyID and name(in hexadecimal form) as a unique identi
 The unique identifier could be an account number or it could be a user-name. For the sake of simplicity, I have chosen to use AliceDuckID and BobDuckID as the name, both minted under the same policy number, and timed locked to prevent replication. 
 
 # Use Case
+I envision a use case where smart contracts could be written with DUCKID as an imbedded constaraint that must be present in order to create a Vaild TX. This could be especially useful in a treasury situation. The current treasurer could be issued an DUCKID as away to ensure group funds can only be accessed by one memeber. 
 
 The DuckID can be used as an input in a script, releasing funds to specific users. 
 

@@ -25,3 +25,6 @@ https://pool.pm/b98829dd255068cb3d742aebb6eb333fbbb8111763d4c8a750f2b708.426f624
 
 Generic Template:
 https://pool.pm/b98829dd255068cb3d742aebb6eb333fbbb8111763d4c8a750f2b708.4475636b4964
+
+# Updates
+The next iteration of DuckID is an actually real world use case and transormation into a Cat. We have now created 150 tokens to be paired with individual digital indetifiers to test and audit participation in the Cardano Catalyst program. 
